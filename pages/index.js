@@ -89,7 +89,7 @@ export default function Home() {
             </div>
           </div>
         </section>
-        <hr />
+        
         <section>
           <div className="p-10 py-20">
             <h3 className="text-5xl py-1 dark:text-white md:text-7xl text-gray-800 relative group">
